@@ -1,0 +1,1003 @@
+user_id,transaction_date,amount_spent,account_balance,transaction_type,user_age,user_income,location
+1,2023-01-05,644,925,purchase,30,4000,New York
+1,2023-02-03,647,278,withdrawal,30,4000,New York
+1,2023-02-15,634,1226,purchase,30,4000,New York
+1,2023-02-16,825,401,purchase,30,4000,New York
+1,2023-01-24,821,1877,withdrawal,30,4000,New York
+1,2023-02-07,33,1844,withdrawal,30,4000,New York
+1,2023-02-10,242,1602,withdrawal,30,4000,New York
+1,2023-02-25,39,1563,withdrawal,30,4000,New York
+1,2023-01-04,504,2067,deposit,30,4000,New York
+1,2023-02-19,292,1775,purchase,30,4000,New York
+1,2023-01-27,458,1317,withdrawal,30,4000,New York
+1,2023-01-09,844,473,withdrawal,30,4000,New York
+1,2023-02-14,568,670,purchase,30,4000,New York
+1,2023-01-15,713,1383,deposit,30,4000,New York
+1,2023-02-02,74,1309,purchase,30,4000,New York
+1,2023-02-03,918,391,purchase,30,4000,New York
+1,2023-01-23,21,412,deposit,30,4000,New York
+1,2023-02-09,917,1329,deposit,30,4000,New York
+1,2023-02-05,63,1392,deposit,30,4000,New York
+1,2023-02-03,968,2360,deposit,30,4000,New York
+1,2023-03-01,786,1574,withdrawal,30,4000,New York
+1,2023-02-23,727,2301,deposit,30,4000,New York
+1,2023-02-08,738,3039,deposit,30,4000,New York
+1,2023-01-20,339,3378,deposit,30,4000,New York
+1,2023-01-16,608,2770,purchase,30,4000,New York
+1,2023-02-03,643,3413,deposit,30,4000,New York
+1,2023-02-25,550,2863,withdrawal,30,4000,New York
+1,2023-02-11,317,3180,deposit,30,4000,New York
+1,2023-02-13,894,2286,purchase,30,4000,New York
+1,2023-01-23,781,3067,deposit,30,4000,New York
+1,2023-01-24,432,2635,withdrawal,30,4000,New York
+1,2023-02-18,639,3274,deposit,30,4000,New York
+1,2023-01-23,648,2626,withdrawal,30,4000,New York
+1,2023-02-12,627,1999,withdrawal,30,4000,New York
+1,2023-02-01,24,2023,deposit,30,4000,New York
+1,2023-01-20,366,1657,withdrawal,30,4000,New York
+1,2023-02-01,496,1161,withdrawal,30,4000,New York
+1,2023-01-03,621,1782,deposit,30,4000,New York
+1,2023-01-12,766,1016,withdrawal,30,4000,New York
+1,2023-01-11,279,1295,deposit,30,4000,New York
+1,2023-01-12,289,1006,withdrawal,30,4000,New York
+1,2023-02-09,314,692,withdrawal,30,4000,New York
+1,2023-02-05,726,1658,purchase,30,4000,New York
+1,2023-01-08,254,1404,purchase,30,4000,New York
+1,2023-01-25,570,834,withdrawal,30,4000,New York
+1,2023-03-02,574,260,withdrawal,30,4000,New York
+1,2023-02-10,723,1641,purchase,30,4000,New York
+1,2023-01-31,979,2620,deposit,30,4000,New York
+1,2023-02-24,687,3307,deposit,30,4000,New York
+1,2023-01-10,664,3971,deposit,30,4000,New York
+1,2023-01-16,954,4925,deposit,30,4000,New York
+1,2023-01-30,783,4142,purchase,30,4000,New York
+1,2023-01-28,952,3190,withdrawal,30,4000,New York
+1,2023-01-07,86,3104,purchase,30,4000,New York
+1,2023-01-17,393,2711,purchase,30,4000,New York
+1,2023-01-19,167,2878,deposit,30,4000,New York
+1,2023-02-24,367,2511,withdrawal,30,4000,New York
+1,2023-02-14,346,2165,purchase,30,4000,New York
+1,2023-02-23,362,1803,withdrawal,30,4000,New York
+1,2023-01-23,97,1706,purchase,30,4000,New York
+1,2023-01-16,884,822,withdrawal,30,4000,New York
+1,2023-02-10,698,124,purchase,30,4000,New York
+1,2023-02-03,327,451,deposit,30,4000,New York
+1,2023-02-15,619,598,purchase,30,4000,New York
+1,2023-01-29,253,345,purchase,30,4000,New York
+1,2023-01-27,28,317,purchase,30,4000,New York
+1,2023-02-05,879,1196,deposit,30,4000,New York
+1,2023-02-03,201,995,withdrawal,30,4000,New York
+1,2023-02-27,718,1713,deposit,30,4000,New York
+1,2023-01-13,468,1245,purchase,30,4000,New York
+1,2023-02-03,490,1735,deposit,30,4000,New York
+1,2023-02-19,640,1095,withdrawal,30,4000,New York
+1,2023-02-20,426,669,purchase,30,4000,New York
+1,2023-02-10,143,812,deposit,30,4000,New York
+1,2023-01-11,209,603,purchase,30,4000,New York
+1,2023-02-19,791,1394,deposit,30,4000,New York
+1,2023-01-17,633,2027,deposit,30,4000,New York
+1,2023-01-02,592,1435,purchase,30,4000,New York
+1,2023-02-28,331,1104,withdrawal,30,4000,New York
+1,2023-02-23,900,204,purchase,30,4000,New York
+1,2023-01-27,774,746,withdrawal,30,4000,New York
+1,2023-02-12,202,544,withdrawal,30,4000,New York
+1,2023-02-23,571,1872,withdrawal,30,4000,New York
+1,2023-01-20,374,1498,purchase,30,4000,New York
+1,2023-01-03,893,605,purchase,30,4000,New York
+1,2023-02-24,384,221,purchase,30,4000,New York
+1,2023-01-26,976,1420,withdrawal,30,4000,New York
+1,2023-01-04,398,1818,deposit,30,4000,New York
+1,2023-01-11,506,1312,purchase,30,4000,New York
+1,2023-02-24,283,1029,withdrawal,30,4000,New York
+1,2023-02-05,609,420,purchase,30,4000,New York
+1,2023-02-02,88,332,purchase,30,4000,New York
+1,2023-02-04,943,529,purchase,30,4000,New York
+1,2023-01-28,530,1280,withdrawal,30,4000,New York
+1,2023-02-26,693,587,purchase,30,4000,New York
+1,2023-02-08,172,415,purchase,30,4000,New York
+1,2023-02-14,441,1342,purchase,30,4000,New York
+1,2023-01-16,771,571,purchase,30,4000,New York
+1,2023-01-27,376,947,deposit,30,4000,New York
+1,2023-01-04,518,429,purchase,30,4000,New York
+1,2023-02-14,524,953,deposit,30,4000,New York
+1,2023-01-29,351,602,withdrawal,30,4000,New York
+1,2023-01-10,959,1226,purchase,30,4000,New York
+1,2023-01-12,946,280,purchase,30,4000,New York
+1,2023-02-04,365,969,purchase,30,4000,New York
+1,2023-02-12,865,104,withdrawal,30,4000,New York
+1,2023-01-25,818,928,withdrawal,30,4000,New York
+1,2023-01-07,822,1750,deposit,30,4000,New York
+1,2023-01-28,593,1157,purchase,30,4000,New York
+1,2023-01-17,644,1801,deposit,30,4000,New York
+1,2023-01-21,543,2344,deposit,30,4000,New York
+1,2023-01-27,410,1934,purchase,30,4000,New York
+1,2023-02-04,28,1906,purchase,30,4000,New York
+1,2023-03-02,393,2299,deposit,30,4000,New York
+1,2023-02-03,596,1703,purchase,30,4000,New York
+1,2023-02-07,87,1616,purchase,30,4000,New York
+1,2023-02-11,230,1386,withdrawal,30,4000,New York
+1,2023-02-14,905,481,withdrawal,30,4000,New York
+1,2023-02-10,279,202,withdrawal,30,4000,New York
+1,2023-02-09,191,11,purchase,30,4000,New York
+1,2023-02-20,191,839,withdrawal,30,4000,New York
+1,2023-02-18,51,890,deposit,30,4000,New York
+1,2023-01-30,196,694,purchase,30,4000,New York
+1,2023-01-17,358,336,purchase,30,4000,New York
+1,2023-01-17,347,1948,withdrawal,30,4000,New York
+1,2023-02-05,333,2281,deposit,30,4000,New York
+1,2023-01-13,430,1851,purchase,30,4000,New York
+1,2023-02-11,754,2605,deposit,30,4000,New York
+1,2023-02-24,290,2315,withdrawal,30,4000,New York
+1,2023-01-03,485,2800,deposit,30,4000,New York
+1,2023-01-21,184,2616,purchase,30,4000,New York
+1,2023-01-27,152,2768,deposit,30,4000,New York
+1,2023-01-13,889,3657,deposit,30,4000,New York
+1,2023-01-21,879,2778,purchase,30,4000,New York
+1,2023-01-04,271,2507,withdrawal,30,4000,New York
+1,2023-02-05,128,2379,purchase,30,4000,New York
+1,2023-01-24,781,3160,deposit,30,4000,New York
+1,2023-02-21,890,2270,purchase,30,4000,New York
+1,2023-01-18,180,2090,purchase,30,4000,New York
+1,2023-02-06,717,1373,purchase,30,4000,New York
+1,2023-02-09,346,1719,deposit,30,4000,New York
+1,2023-02-08,897,822,withdrawal,30,4000,New York
+1,2023-02-14,291,1113,deposit,30,4000,New York
+1,2023-02-03,768,345,purchase,30,4000,New York
+1,2023-02-07,761,1573,withdrawal,30,4000,New York
+1,2023-01-13,601,972,withdrawal,30,4000,New York
+1,2023-02-02,209,763,withdrawal,30,4000,New York
+1,2023-01-14,540,223,withdrawal,30,4000,New York
+1,2023-01-27,575,923,withdrawal,30,4000,New York
+1,2023-01-19,218,1141,deposit,30,4000,New York
+1,2023-01-31,834,307,withdrawal,30,4000,New York
+1,2023-02-12,373,680,deposit,30,4000,New York
+1,2023-03-02,473,1153,deposit,30,4000,New York
+1,2023-01-29,215,938,purchase,30,4000,New York
+1,2023-03-01,387,1325,deposit,30,4000,New York
+1,2023-02-13,372,953,purchase,30,4000,New York
+1,2023-02-22,378,575,withdrawal,30,4000,New York
+1,2023-02-22,955,1494,withdrawal,30,4000,New York
+1,2023-01-25,54,1440,withdrawal,30,4000,New York
+1,2023-01-03,112,1328,withdrawal,30,4000,New York
+1,2023-03-02,513,815,purchase,30,4000,New York
+1,2023-01-09,488,1303,deposit,30,4000,New York
+1,2023-02-12,593,710,withdrawal,30,4000,New York
+1,2023-01-15,688,22,purchase,30,4000,New York
+1,2023-01-31,807,829,deposit,30,4000,New York
+1,2023-01-12,487,342,withdrawal,30,4000,New York
+1,2023-01-05,658,1367,purchase,30,4000,New York
+2,2023-01-13,586,1693,purchase,45,7000,California
+2,2023-01-14,361,1332,purchase,45,7000,California
+2,2023-02-06,690,642,purchase,45,7000,California
+2,2023-01-10,352,290,purchase,45,7000,California
+2,2023-02-27,972,1262,deposit,45,7000,California
+2,2023-02-09,297,965,withdrawal,45,7000,California
+2,2023-02-08,240,1205,deposit,45,7000,California
+2,2023-02-20,774,431,withdrawal,45,7000,California
+2,2023-01-23,939,992,withdrawal,45,7000,California
+2,2023-01-24,980,1972,deposit,45,7000,California
+2,2023-01-26,989,983,purchase,45,7000,California
+2,2023-02-20,534,1517,deposit,45,7000,California
+2,2023-02-27,281,1236,purchase,45,7000,California
+2,2023-01-02,742,494,purchase,45,7000,California
+2,2023-02-22,502,1917,purchase,45,7000,California
+2,2023-02-08,256,1661,withdrawal,45,7000,California
+2,2023-01-14,130,1791,deposit,45,7000,California
+2,2023-02-23,942,849,purchase,45,7000,California
+2,2023-02-03,594,1443,deposit,45,7000,California
+2,2023-01-03,309,1134,purchase,45,7000,California
+2,2023-02-18,337,1471,deposit,45,7000,California
+2,2023-01-13,431,1902,deposit,45,7000,California
+2,2023-01-27,400,1502,purchase,45,7000,California
+2,2023-01-31,939,563,purchase,45,7000,California
+2,2023-01-31,839,1153,purchase,45,7000,California
+2,2023-02-17,642,511,purchase,45,7000,California
+2,2023-01-11,969,1599,purchase,45,7000,California
+2,2023-02-13,298,1897,deposit,45,7000,California
+2,2023-02-13,578,1319,withdrawal,45,7000,California
+2,2023-01-17,716,2035,deposit,45,7000,California
+2,2023-01-23,256,1779,withdrawal,45,7000,California
+2,2023-01-11,112,1667,purchase,45,7000,California
+2,2023-02-23,984,2651,deposit,45,7000,California
+2,2023-02-01,924,3575,deposit,45,7000,California
+2,2023-02-20,92,3483,withdrawal,45,7000,California
+2,2023-01-02,985,4468,deposit,45,7000,California
+2,2023-01-27,451,4017,withdrawal,45,7000,California
+2,2023-02-07,667,4684,deposit,45,7000,California
+2,2023-01-03,601,5285,deposit,45,7000,California
+2,2023-02-11,758,4527,purchase,45,7000,California
+2,2023-01-13,609,3918,purchase,45,7000,California
+2,2023-01-09,195,4113,deposit,45,7000,California
+2,2023-02-26,913,5026,deposit,45,7000,California
+2,2023-01-01,67,4959,withdrawal,45,7000,California
+2,2023-01-15,300,4659,purchase,45,7000,California
+2,2023-02-24,808,3851,purchase,45,7000,California
+2,2023-02-18,841,4692,deposit,45,7000,California
+2,2023-01-13,635,4057,withdrawal,45,7000,California
+2,2023-02-25,786,3271,purchase,45,7000,California
+2,2023-01-05,122,3149,withdrawal,45,7000,California
+2,2023-01-14,645,2504,purchase,45,7000,California
+2,2023-02-18,748,1756,withdrawal,45,7000,California
+2,2023-02-11,683,2439,deposit,45,7000,California
+2,2023-02-26,167,2272,withdrawal,45,7000,California
+2,2023-02-13,727,1545,purchase,45,7000,California
+2,2023-02-09,328,1217,purchase,45,7000,California
+2,2023-02-23,126,1091,withdrawal,45,7000,California
+2,2023-02-22,216,1307,deposit,45,7000,California
+2,2023-01-21,394,913,purchase,45,7000,California
+2,2023-01-27,126,1039,deposit,45,7000,California
+2,2023-01-28,811,228,purchase,45,7000,California
+2,2023-02-22,106,122,purchase,45,7000,California
+2,2023-02-26,567,689,deposit,45,7000,California
+2,2023-01-20,478,1167,deposit,45,7000,California
+2,2023-02-05,657,510,withdrawal,45,7000,California
+2,2023-01-02,177,687,deposit,45,7000,California
+2,2023-01-10,186,501,purchase,45,7000,California
+2,2023-02-15,967,1468,deposit,45,7000,California
+2,2023-01-20,673,795,purchase,45,7000,California
+2,2023-01-12,77,872,deposit,45,7000,California
+2,2023-02-14,832,1704,deposit,45,7000,California
+2,2023-02-04,910,794,purchase,45,7000,California
+2,2023-01-08,711,83,purchase,45,7000,California
+2,2023-01-02,680,556,withdrawal,45,7000,California
+2,2023-01-04,237,793,deposit,45,7000,California
+2,2023-02-24,872,1973,withdrawal,45,7000,California
+2,2023-02-21,350,1623,withdrawal,45,7000,California
+2,2023-02-21,406,2029,deposit,45,7000,California
+2,2023-02-28,447,2476,deposit,45,7000,California
+2,2023-01-06,175,2301,purchase,45,7000,California
+2,2023-01-05,35,2266,withdrawal,45,7000,California
+2,2023-02-09,834,1432,withdrawal,45,7000,California
+2,2023-01-24,210,1222,withdrawal,45,7000,California
+2,2023-01-13,92,1314,deposit,45,7000,California
+2,2023-02-27,794,520,purchase,45,7000,California
+2,2023-02-01,606,1369,withdrawal,45,7000,California
+2,2023-02-22,270,1099,purchase,45,7000,California
+2,2023-01-29,287,812,purchase,45,7000,California
+2,2023-02-13,415,397,withdrawal,45,7000,California
+2,2023-02-16,252,649,deposit,45,7000,California
+2,2023-02-09,32,617,purchase,45,7000,California
+2,2023-01-23,884,667,purchase,45,7000,California
+2,2023-01-26,844,1511,deposit,45,7000,California
+2,2023-01-02,50,1461,purchase,45,7000,California
+2,2023-01-06,599,862,purchase,45,7000,California
+2,2023-01-13,519,343,purchase,45,7000,California
+2,2023-01-31,372,673,purchase,45,7000,California
+2,2023-02-14,353,1026,deposit,45,7000,California
+2,2023-01-25,864,1890,deposit,45,7000,California
+2,2023-02-21,719,2609,deposit,45,7000,California
+2,2023-01-20,477,3086,deposit,45,7000,California
+2,2023-01-18,199,2887,withdrawal,45,7000,California
+2,2023-02-12,546,2341,withdrawal,45,7000,California
+2,2023-03-02,391,1950,purchase,45,7000,California
+2,2023-01-11,270,1680,purchase,45,7000,California
+2,2023-02-16,452,2132,deposit,45,7000,California
+2,2023-01-10,149,2281,deposit,45,7000,California
+2,2023-01-26,352,1929,purchase,45,7000,California
+2,2023-02-28,912,1017,withdrawal,45,7000,California
+2,2023-01-06,549,1566,deposit,45,7000,California
+2,2023-01-02,829,737,purchase,45,7000,California
+2,2023-01-08,87,824,deposit,45,7000,California
+2,2023-02-21,112,936,deposit,45,7000,California
+2,2023-02-10,601,335,withdrawal,45,7000,California
+2,2023-01-27,89,246,withdrawal,45,7000,California
+2,2023-01-06,946,1192,deposit,45,7000,California
+2,2023-02-19,173,1019,purchase,45,7000,California
+2,2023-01-22,140,1159,deposit,45,7000,California
+2,2023-01-18,426,733,purchase,45,7000,California
+2,2023-01-26,938,1288,purchase,45,7000,California
+2,2023-02-20,127,1415,deposit,45,7000,California
+2,2023-02-18,370,1045,withdrawal,45,7000,California
+2,2023-01-21,885,1930,deposit,45,7000,California
+2,2023-01-14,253,1677,purchase,45,7000,California
+2,2023-02-09,532,1145,purchase,45,7000,California
+2,2023-02-02,395,1540,deposit,45,7000,California
+2,2023-01-11,392,1932,deposit,45,7000,California
+2,2023-02-14,850,1082,purchase,45,7000,California
+2,2023-01-23,312,1394,deposit,45,7000,California
+2,2023-02-07,376,1770,deposit,45,7000,California
+2,2023-02-26,861,909,purchase,45,7000,California
+2,2023-01-30,894,15,purchase,45,7000,California
+2,2023-02-09,543,1215,purchase,45,7000,California
+2,2023-01-07,295,920,withdrawal,45,7000,California
+2,2023-01-24,157,1077,deposit,45,7000,California
+2,2023-01-03,531,546,withdrawal,45,7000,California
+2,2023-01-11,118,664,deposit,45,7000,California
+2,2023-02-10,670,1685,withdrawal,45,7000,California
+2,2023-01-15,570,1115,purchase,45,7000,California
+2,2023-01-09,237,878,purchase,45,7000,California
+2,2023-01-05,270,608,purchase,45,7000,California
+2,2023-01-28,34,574,withdrawal,45,7000,California
+2,2023-02-03,979,1658,withdrawal,45,7000,California
+2,2023-01-01,283,1941,deposit,45,7000,California
+2,2023-01-10,804,1137,withdrawal,45,7000,California
+2,2023-01-13,192,945,withdrawal,45,7000,California
+2,2023-02-12,698,1643,deposit,45,7000,California
+2,2023-02-23,605,1038,withdrawal,45,7000,California
+2,2023-01-20,771,267,purchase,45,7000,California
+2,2023-02-04,473,1559,purchase,45,7000,California
+2,2023-03-01,532,2091,deposit,45,7000,California
+2,2023-02-21,267,1824,purchase,45,7000,California
+2,2023-02-03,769,2593,deposit,45,7000,California
+2,2023-01-31,924,1669,withdrawal,45,7000,California
+2,2023-01-03,239,1430,purchase,45,7000,California
+2,2023-02-26,406,1836,deposit,45,7000,California
+2,2023-02-09,501,1335,withdrawal,45,7000,California
+2,2023-02-19,552,783,withdrawal,45,7000,California
+2,2023-01-11,139,644,withdrawal,45,7000,California
+2,2023-01-25,263,907,deposit,45,7000,California
+2,2023-02-13,797,1704,deposit,45,7000,California
+2,2023-03-02,92,1796,deposit,45,7000,California
+2,2023-01-10,167,1629,purchase,45,7000,California
+2,2023-02-20,385,1244,withdrawal,45,7000,California
+2,2023-01-28,324,920,purchase,45,7000,California
+2,2023-01-17,397,1317,deposit,45,7000,California
+2,2023-01-13,854,2171,deposit,45,7000,California
+3,2023-01-10,232,3423,deposit,25,2500,Texas
+3,2023-01-30,191,3614,deposit,25,2500,Texas
+3,2023-02-08,305,3309,withdrawal,25,2500,Texas
+3,2023-02-07,750,2559,withdrawal,25,2500,Texas
+3,2023-02-06,82,2641,deposit,25,2500,Texas
+3,2023-01-09,688,1953,withdrawal,25,2500,Texas
+3,2023-01-13,334,2287,deposit,25,2500,Texas
+3,2023-02-06,317,1970,purchase,25,2500,Texas
+3,2023-01-19,864,1106,purchase,25,2500,Texas
+3,2023-01-20,264,842,purchase,25,2500,Texas
+3,2023-01-05,533,309,withdrawal,25,2500,Texas
+3,2023-01-06,573,1411,withdrawal,25,2500,Texas
+3,2023-02-08,57,1354,purchase,25,2500,Texas
+3,2023-01-26,29,1383,deposit,25,2500,Texas
+3,2023-02-19,162,1221,withdrawal,25,2500,Texas
+3,2023-02-15,353,1574,deposit,25,2500,Texas
+3,2023-02-07,955,2529,deposit,25,2500,Texas
+3,2023-01-18,180,2349,purchase,25,2500,Texas
+3,2023-01-25,620,1729,purchase,25,2500,Texas
+3,2023-02-23,806,2535,deposit,25,2500,Texas
+3,2023-02-24,515,3050,deposit,25,2500,Texas
+3,2023-01-08,198,2852,purchase,25,2500,Texas
+3,2023-01-06,448,3300,deposit,25,2500,Texas
+3,2023-01-19,632,3932,deposit,25,2500,Texas
+3,2023-02-23,593,3339,purchase,25,2500,Texas
+3,2023-02-18,694,4033,deposit,25,2500,Texas
+3,2023-01-01,370,4403,deposit,25,2500,Texas
+3,2023-02-14,83,4486,deposit,25,2500,Texas
+3,2023-01-04,479,4007,purchase,25,2500,Texas
+3,2023-02-09,308,3699,purchase,25,2500,Texas
+3,2023-02-18,21,3720,deposit,25,2500,Texas
+3,2023-02-03,605,3115,purchase,25,2500,Texas
+3,2023-01-13,637,3752,deposit,25,2500,Texas
+3,2023-01-02,607,3145,withdrawal,25,2500,Texas
+3,2023-02-11,98,3047,withdrawal,25,2500,Texas
+3,2023-03-01,894,3941,deposit,25,2500,Texas
+3,2023-02-22,946,2995,purchase,25,2500,Texas
+3,2023-02-09,914,3909,deposit,25,2500,Texas
+3,2023-01-04,143,3766,withdrawal,25,2500,Texas
+3,2023-01-01,973,4739,deposit,25,2500,Texas
+3,2023-01-31,369,4370,purchase,25,2500,Texas
+3,2023-01-17,920,3450,purchase,25,2500,Texas
+3,2023-02-01,614,2836,withdrawal,25,2500,Texas
+3,2023-01-05,785,2051,withdrawal,25,2500,Texas
+3,2023-01-15,166,1885,purchase,25,2500,Texas
+3,2023-02-22,523,1362,withdrawal,25,2500,Texas
+3,2023-02-22,367,995,purchase,25,2500,Texas
+3,2023-01-27,945,50,purchase,25,2500,Texas
+3,2023-02-28,299,349,deposit,25,2500,Texas
+3,2023-01-02,735,1476,purchase,25,2500,Texas
+3,2023-02-08,235,1711,deposit,25,2500,Texas
+3,2023-01-05,560,1151,withdrawal,25,2500,Texas
+3,2023-01-02,264,887,withdrawal,25,2500,Texas
+3,2023-02-14,433,454,purchase,25,2500,Texas
+3,2023-01-05,980,570,withdrawal,25,2500,Texas
+3,2023-02-17,868,1731,purchase,25,2500,Texas
+3,2023-02-08,911,820,purchase,25,2500,Texas
+3,2023-02-07,793,27,withdrawal,25,2500,Texas
+3,2023-02-21,480,1572,withdrawal,25,2500,Texas
+3,2023-01-31,630,942,purchase,25,2500,Texas
+3,2023-01-16,810,1752,deposit,25,2500,Texas
+3,2023-01-04,586,2338,deposit,25,2500,Texas
+3,2023-01-03,241,2097,purchase,25,2500,Texas
+3,2023-02-15,608,2705,deposit,25,2500,Texas
+3,2023-02-03,162,2543,purchase,25,2500,Texas
+3,2023-01-11,267,2810,deposit,25,2500,Texas
+3,2023-01-11,174,2984,deposit,25,2500,Texas
+3,2023-01-25,427,3411,deposit,25,2500,Texas
+3,2023-01-27,234,3177,withdrawal,25,2500,Texas
+3,2023-01-20,945,2232,purchase,25,2500,Texas
+3,2023-01-23,483,1749,purchase,25,2500,Texas
+3,2023-02-27,373,1376,withdrawal,25,2500,Texas
+3,2023-02-24,306,1682,deposit,25,2500,Texas
+3,2023-01-04,918,2600,deposit,25,2500,Texas
+3,2023-02-08,112,2488,withdrawal,25,2500,Texas
+3,2023-02-25,220,2268,purchase,25,2500,Texas
+3,2023-01-11,373,1895,purchase,25,2500,Texas
+3,2023-01-06,624,1271,withdrawal,25,2500,Texas
+3,2023-02-08,145,1416,deposit,25,2500,Texas
+3,2023-02-18,690,726,purchase,25,2500,Texas
+3,2023-02-01,882,961,purchase,25,2500,Texas
+3,2023-01-18,326,1287,deposit,25,2500,Texas
+3,2023-02-17,710,577,purchase,25,2500,Texas
+3,2023-01-15,155,422,purchase,25,2500,Texas
+3,2023-01-03,214,208,purchase,25,2500,Texas
+3,2023-02-18,120,88,purchase,25,2500,Texas
+3,2023-02-10,595,1931,withdrawal,25,2500,Texas
+3,2023-02-04,33,1964,deposit,25,2500,Texas
+3,2023-01-04,450,1514,purchase,25,2500,Texas
+3,2023-02-02,985,529,withdrawal,25,2500,Texas
+3,2023-01-13,531,1060,deposit,25,2500,Texas
+3,2023-01-25,966,2026,deposit,25,2500,Texas
+3,2023-01-29,92,2118,deposit,25,2500,Texas
+3,2023-02-18,771,1347,purchase,25,2500,Texas
+3,2023-01-10,198,1545,deposit,25,2500,Texas
+3,2023-02-14,226,1771,deposit,25,2500,Texas
+3,2023-03-02,28,1799,deposit,25,2500,Texas
+3,2023-02-23,927,872,withdrawal,25,2500,Texas
+3,2023-02-24,459,1331,deposit,25,2500,Texas
+3,2023-01-12,604,1935,deposit,25,2500,Texas
+3,2023-02-19,747,1188,withdrawal,25,2500,Texas
+3,2023-02-11,886,302,withdrawal,25,2500,Texas
+3,2023-02-12,176,126,withdrawal,25,2500,Texas
+3,2023-02-25,565,1791,withdrawal,25,2500,Texas
+3,2023-02-22,114,1677,withdrawal,25,2500,Texas
+3,2023-02-21,417,1260,withdrawal,25,2500,Texas
+3,2023-03-01,420,1680,deposit,25,2500,Texas
+3,2023-02-11,789,891,withdrawal,25,2500,Texas
+3,2023-02-07,850,1741,deposit,25,2500,Texas
+3,2023-01-06,542,2283,deposit,25,2500,Texas
+3,2023-01-28,523,2806,deposit,25,2500,Texas
+3,2023-01-25,281,3087,deposit,25,2500,Texas
+3,2023-01-20,715,2372,purchase,25,2500,Texas
+3,2023-01-03,604,1768,purchase,25,2500,Texas
+3,2023-01-08,466,1302,purchase,25,2500,Texas
+3,2023-01-09,856,2158,deposit,25,2500,Texas
+3,2023-02-10,834,1324,withdrawal,25,2500,Texas
+3,2023-02-22,601,723,purchase,25,2500,Texas
+3,2023-01-20,256,979,deposit,25,2500,Texas
+3,2023-01-21,534,1513,deposit,25,2500,Texas
+3,2023-01-05,751,2264,deposit,25,2500,Texas
+3,2023-01-19,206,2470,deposit,25,2500,Texas
+3,2023-01-03,189,2281,withdrawal,25,2500,Texas
+3,2023-01-01,874,3155,deposit,25,2500,Texas
+3,2023-01-01,124,3031,withdrawal,25,2500,Texas
+3,2023-02-19,924,2107,purchase,25,2500,Texas
+3,2023-03-01,887,2994,deposit,25,2500,Texas
+3,2023-01-09,896,2098,withdrawal,25,2500,Texas
+3,2023-02-08,944,1154,purchase,25,2500,Texas
+3,2023-02-24,466,688,purchase,25,2500,Texas
+3,2023-02-13,888,1576,deposit,25,2500,Texas
+3,2023-01-07,649,927,purchase,25,2500,Texas
+3,2023-02-23,84,843,purchase,25,2500,Texas
+3,2023-02-17,20,823,withdrawal,25,2500,Texas
+3,2023-02-15,346,477,purchase,25,2500,Texas
+3,2023-01-23,635,667,purchase,25,2500,Texas
+3,2023-01-26,811,1633,purchase,25,2500,Texas
+3,2023-02-25,916,717,purchase,25,2500,Texas
+3,2023-01-15,258,459,purchase,25,2500,Texas
+3,2023-01-23,137,322,purchase,25,2500,Texas
+3,2023-01-24,579,901,deposit,25,2500,Texas
+3,2023-01-13,601,300,withdrawal,25,2500,Texas
+3,2023-02-16,901,1242,purchase,25,2500,Texas
+3,2023-02-01,913,329,purchase,25,2500,Texas
+3,2023-02-27,346,1758,purchase,25,2500,Texas
+3,2023-01-11,871,887,withdrawal,25,2500,Texas
+3,2023-01-04,368,519,purchase,25,2500,Texas
+3,2023-01-03,389,130,withdrawal,25,2500,Texas
+3,2023-01-26,845,975,deposit,25,2500,Texas
+3,2023-01-12,238,737,withdrawal,25,2500,Texas
+3,2023-01-24,443,1180,deposit,25,2500,Texas
+3,2023-03-02,841,339,withdrawal,25,2500,Texas
+3,2023-02-26,697,1104,withdrawal,25,2500,Texas
+3,2023-01-09,928,176,withdrawal,25,2500,Texas
+3,2023-01-14,756,932,deposit,25,2500,Texas
+3,2023-01-07,961,1893,deposit,25,2500,Texas
+3,2023-02-13,668,1225,purchase,25,2500,Texas
+3,2023-02-15,953,2178,deposit,25,2500,Texas
+3,2023-02-24,262,2440,deposit,25,2500,Texas
+3,2023-01-09,904,1536,purchase,25,2500,Texas
+3,2023-01-31,876,660,purchase,25,2500,Texas
+3,2023-01-20,158,818,deposit,25,2500,Texas
+3,2023-02-17,132,686,purchase,25,2500,Texas
+3,2023-02-14,965,1651,deposit,25,2500,Texas
+3,2023-01-08,378,1273,purchase,25,2500,Texas
+3,2023-01-02,590,683,purchase,25,2500,Texas
+3,2023-03-01,51,734,deposit,25,2500,Texas
+4,2023-02-03,676,1404,purchase,60,8000,Florida
+4,2023-02-05,884,520,withdrawal,60,8000,Florida
+4,2023-01-30,185,335,withdrawal,60,8000,Florida
+4,2023-02-07,507,1160,purchase,60,8000,Florida
+4,2023-02-05,900,260,withdrawal,60,8000,Florida
+4,2023-02-20,406,1338,purchase,60,8000,Florida
+4,2023-02-19,249,1587,deposit,60,8000,Florida
+4,2023-02-10,607,980,withdrawal,60,8000,Florida
+4,2023-02-01,324,1304,deposit,60,8000,Florida
+4,2023-02-17,709,595,withdrawal,60,8000,Florida
+4,2023-02-08,44,551,purchase,60,8000,Florida
+4,2023-02-06,153,398,purchase,60,8000,Florida
+4,2023-01-14,941,1339,deposit,60,8000,Florida
+4,2023-02-08,961,2300,deposit,60,8000,Florida
+4,2023-02-09,68,2232,purchase,60,8000,Florida
+4,2023-02-21,889,1343,purchase,60,8000,Florida
+4,2023-01-13,507,836,purchase,60,8000,Florida
+4,2023-01-17,785,1621,deposit,60,8000,Florida
+4,2023-02-16,983,638,purchase,60,8000,Florida
+4,2023-02-25,67,571,withdrawal,60,8000,Florida
+4,2023-01-29,749,1195,withdrawal,60,8000,Florida
+4,2023-03-02,342,1537,deposit,60,8000,Florida
+4,2023-01-31,363,1900,deposit,60,8000,Florida
+4,2023-01-17,346,1554,withdrawal,60,8000,Florida
+4,2023-01-08,628,926,withdrawal,60,8000,Florida
+4,2023-01-21,281,1207,deposit,60,8000,Florida
+4,2023-01-18,137,1070,withdrawal,60,8000,Florida
+4,2023-02-02,430,640,purchase,60,8000,Florida
+4,2023-02-11,141,499,withdrawal,60,8000,Florida
+4,2023-01-24,65,564,deposit,60,8000,Florida
+4,2023-01-30,699,1263,deposit,60,8000,Florida
+4,2023-01-08,689,574,withdrawal,60,8000,Florida
+4,2023-02-22,811,1119,purchase,60,8000,Florida
+4,2023-02-06,732,387,withdrawal,60,8000,Florida
+4,2023-01-23,240,147,withdrawal,60,8000,Florida
+4,2023-02-05,704,1949,purchase,60,8000,Florida
+4,2023-03-01,682,1267,withdrawal,60,8000,Florida
+4,2023-02-19,611,656,withdrawal,60,8000,Florida
+4,2023-01-16,657,986,withdrawal,60,8000,Florida
+4,2023-02-21,980,6,purchase,60,8000,Florida
+4,2023-01-24,744,936,withdrawal,60,8000,Florida
+4,2023-01-01,243,693,withdrawal,60,8000,Florida
+4,2023-01-25,99,792,deposit,60,8000,Florida
+4,2023-01-11,195,597,withdrawal,60,8000,Florida
+4,2023-01-08,760,1306,withdrawal,60,8000,Florida
+4,2023-01-05,289,1017,purchase,60,8000,Florida
+4,2023-02-15,293,1310,deposit,60,8000,Florida
+4,2023-02-12,707,2017,deposit,60,8000,Florida
+4,2023-01-23,248,2265,deposit,60,8000,Florida
+4,2023-02-05,852,3117,deposit,60,8000,Florida
+4,2023-01-16,659,2458,purchase,60,8000,Florida
+4,2023-02-27,963,1495,withdrawal,60,8000,Florida
+4,2023-02-18,116,1379,withdrawal,60,8000,Florida
+4,2023-02-18,136,1243,withdrawal,60,8000,Florida
+4,2023-01-30,95,1148,withdrawal,60,8000,Florida
+4,2023-02-25,324,824,withdrawal,60,8000,Florida
+4,2023-02-03,818,6,purchase,60,8000,Florida
+4,2023-01-31,695,1047,withdrawal,60,8000,Florida
+4,2023-02-13,844,203,withdrawal,60,8000,Florida
+4,2023-02-23,536,739,deposit,60,8000,Florida
+4,2023-02-23,313,426,purchase,60,8000,Florida
+4,2023-02-01,531,1412,withdrawal,60,8000,Florida
+4,2023-02-01,652,760,withdrawal,60,8000,Florida
+4,2023-02-05,889,1649,deposit,60,8000,Florida
+4,2023-01-17,659,990,purchase,60,8000,Florida
+4,2023-02-26,900,90,purchase,60,8000,Florida
+4,2023-02-14,451,958,withdrawal,60,8000,Florida
+4,2023-01-06,297,1255,deposit,60,8000,Florida
+4,2023-03-01,987,268,purchase,60,8000,Florida
+4,2023-02-28,833,1006,withdrawal,60,8000,Florida
+4,2023-01-28,662,344,withdrawal,60,8000,Florida
+4,2023-02-06,949,731,withdrawal,60,8000,Florida
+4,2023-02-25,461,1192,deposit,60,8000,Florida
+4,2023-02-16,120,1072,withdrawal,60,8000,Florida
+4,2023-01-22,740,332,purchase,60,8000,Florida
+4,2023-01-14,917,1323,purchase,60,8000,Florida
+4,2023-01-28,766,557,withdrawal,60,8000,Florida
+4,2023-01-17,526,31,purchase,60,8000,Florida
+4,2023-02-27,133,1874,purchase,60,8000,Florida
+4,2023-02-13,942,2816,deposit,60,8000,Florida
+4,2023-01-08,790,3606,deposit,60,8000,Florida
+4,2023-01-07,548,4154,deposit,60,8000,Florida
+4,2023-01-25,192,3962,withdrawal,60,8000,Florida
+4,2023-01-17,376,3586,purchase,60,8000,Florida
+4,2023-01-31,526,3060,purchase,60,8000,Florida
+4,2023-03-02,885,2175,withdrawal,60,8000,Florida
+4,2023-02-07,468,2643,deposit,60,8000,Florida
+4,2023-01-29,733,3376,deposit,60,8000,Florida
+4,2023-02-14,74,3450,deposit,60,8000,Florida
+4,2023-02-11,253,3197,purchase,60,8000,Florida
+4,2023-01-22,865,4062,deposit,60,8000,Florida
+4,2023-01-10,442,3620,withdrawal,60,8000,Florida
+4,2023-02-09,744,2876,purchase,60,8000,Florida
+4,2023-01-16,290,3166,deposit,60,8000,Florida
+4,2023-01-28,895,2271,purchase,60,8000,Florida
+4,2023-01-05,286,1985,withdrawal,60,8000,Florida
+4,2023-02-26,334,2319,deposit,60,8000,Florida
+4,2023-01-19,469,1850,withdrawal,60,8000,Florida
+4,2023-01-02,557,1293,purchase,60,8000,Florida
+4,2023-01-30,491,802,withdrawal,60,8000,Florida
+4,2023-01-29,952,1819,withdrawal,60,8000,Florida
+4,2023-01-03,201,2020,deposit,60,8000,Florida
+4,2023-01-02,746,1274,withdrawal,60,8000,Florida
+4,2023-02-24,109,1165,withdrawal,60,8000,Florida
+4,2023-01-05,544,621,purchase,60,8000,Florida
+4,2023-02-17,280,341,purchase,60,8000,Florida
+4,2023-01-02,241,100,purchase,60,8000,Florida
+4,2023-02-14,986,1086,deposit,60,8000,Florida
+4,2023-01-14,776,310,withdrawal,60,8000,Florida
+4,2023-02-28,485,1471,withdrawal,60,8000,Florida
+4,2023-02-06,747,724,withdrawal,60,8000,Florida
+4,2023-02-27,269,993,deposit,60,8000,Florida
+4,2023-01-15,545,448,withdrawal,60,8000,Florida
+4,2023-03-01,796,823,withdrawal,60,8000,Florida
+4,2023-02-10,863,835,purchase,60,8000,Florida
+4,2023-02-27,609,1444,deposit,60,8000,Florida
+4,2023-02-23,932,512,withdrawal,60,8000,Florida
+4,2023-02-18,951,1955,purchase,60,8000,Florida
+4,2023-01-08,357,1598,purchase,60,8000,Florida
+4,2023-02-21,39,1559,purchase,60,8000,Florida
+4,2023-02-12,26,1533,withdrawal,60,8000,Florida
+4,2023-02-02,808,725,purchase,60,8000,Florida
+4,2023-01-09,979,1797,withdrawal,60,8000,Florida
+4,2023-02-14,140,1657,purchase,60,8000,Florida
+4,2023-02-10,335,1322,withdrawal,60,8000,Florida
+4,2023-01-18,907,2229,deposit,60,8000,Florida
+4,2023-02-04,405,1824,purchase,60,8000,Florida
+4,2023-01-17,303,1521,purchase,60,8000,Florida
+4,2023-01-23,853,668,purchase,60,8000,Florida
+4,2023-02-09,422,246,purchase,60,8000,Florida
+4,2023-02-25,648,894,deposit,60,8000,Florida
+4,2023-02-03,600,294,withdrawal,60,8000,Florida
+4,2023-01-06,988,1267,purchase,60,8000,Florida
+4,2023-02-24,610,657,withdrawal,60,8000,Florida
+4,2023-02-12,665,1322,deposit,60,8000,Florida
+4,2023-02-17,22,1300,withdrawal,60,8000,Florida
+4,2023-02-01,136,1164,withdrawal,60,8000,Florida
+4,2023-02-19,874,290,withdrawal,60,8000,Florida
+4,2023-02-12,346,1703,purchase,60,8000,Florida
+4,2023-02-15,326,1377,withdrawal,60,8000,Florida
+4,2023-01-11,468,1845,deposit,60,8000,Florida
+4,2023-02-01,499,2344,deposit,60,8000,Florida
+4,2023-01-12,844,1500,purchase,60,8000,Florida
+4,2023-01-22,678,822,purchase,60,8000,Florida
+4,2023-02-03,20,802,withdrawal,60,8000,Florida
+4,2023-02-06,568,234,withdrawal,60,8000,Florida
+4,2023-01-07,74,160,withdrawal,60,8000,Florida
+4,2023-02-13,160,0,withdrawal,60,8000,Florida
+4,2023-02-24,550,550,deposit,60,8000,Florida
+4,2023-01-13,39,511,withdrawal,60,8000,Florida
+4,2023-02-09,889,1473,withdrawal,60,8000,Florida
+4,2023-02-06,693,780,purchase,60,8000,Florida
+4,2023-02-21,194,974,deposit,60,8000,Florida
+4,2023-01-29,870,104,purchase,60,8000,Florida
+4,2023-02-03,575,733,purchase,60,8000,Florida
+4,2023-02-18,347,386,withdrawal,60,8000,Florida
+4,2023-02-14,68,318,purchase,60,8000,Florida
+4,2023-01-19,109,209,withdrawal,60,8000,Florida
+4,2023-02-14,209,418,deposit,60,8000,Florida
+4,2023-01-04,893,1035,withdrawal,60,8000,Florida
+4,2023-01-13,677,1712,deposit,60,8000,Florida
+4,2023-01-11,310,1402,purchase,60,8000,Florida
+4,2023-01-11,424,1826,deposit,60,8000,Florida
+4,2023-01-18,439,1387,purchase,60,8000,Florida
+4,2023-01-08,683,704,purchase,60,8000,Florida
+4,2023-01-10,555,1259,deposit,60,8000,Florida
+4,2023-02-06,110,1149,withdrawal,60,8000,Florida
+5,2023-01-01,454,2267,withdrawal,35,6000,Washington
+5,2023-01-03,192,2075,withdrawal,35,6000,Washington
+5,2023-01-31,901,2976,deposit,35,6000,Washington
+5,2023-01-30,245,2731,purchase,35,6000,Washington
+5,2023-01-02,870,1861,withdrawal,35,6000,Washington
+5,2023-02-20,307,2168,deposit,35,6000,Washington
+5,2023-02-23,954,1214,withdrawal,35,6000,Washington
+5,2023-02-28,874,340,withdrawal,35,6000,Washington
+5,2023-01-11,866,1126,purchase,35,6000,Washington
+5,2023-01-14,299,1425,deposit,35,6000,Washington
+5,2023-02-18,779,2204,deposit,35,6000,Washington
+5,2023-01-01,715,2919,deposit,35,6000,Washington
+5,2023-02-22,293,3212,deposit,35,6000,Washington
+5,2023-01-18,467,2745,purchase,35,6000,Washington
+5,2023-02-09,20,2725,purchase,35,6000,Washington
+5,2023-01-14,74,2651,withdrawal,35,6000,Washington
+5,2023-02-11,556,2095,withdrawal,35,6000,Washington
+5,2023-01-18,980,1115,purchase,35,6000,Washington
+5,2023-02-18,591,524,withdrawal,35,6000,Washington
+5,2023-01-09,572,1695,withdrawal,35,6000,Washington
+5,2023-01-30,797,2492,deposit,35,6000,Washington
+5,2023-01-20,987,1505,purchase,35,6000,Washington
+5,2023-02-04,502,2007,deposit,35,6000,Washington
+5,2023-01-07,342,1665,purchase,35,6000,Washington
+5,2023-01-11,142,1807,deposit,35,6000,Washington
+5,2023-01-22,129,1936,deposit,35,6000,Washington
+5,2023-02-14,118,2054,deposit,35,6000,Washington
+5,2023-02-05,908,1146,withdrawal,35,6000,Washington
+5,2023-02-25,905,241,purchase,35,6000,Washington
+5,2023-01-08,967,1208,deposit,35,6000,Washington
+5,2023-02-16,686,522,withdrawal,35,6000,Washington
+5,2023-01-26,55,577,deposit,35,6000,Washington
+5,2023-01-19,538,39,withdrawal,35,6000,Washington
+5,2023-01-11,430,660,purchase,35,6000,Washington
+5,2023-01-23,242,418,purchase,35,6000,Washington
+5,2023-02-02,756,721,withdrawal,35,6000,Washington
+5,2023-02-12,200,521,purchase,35,6000,Washington
+5,2023-03-02,641,1710,purchase,35,6000,Washington
+5,2023-01-24,558,1152,withdrawal,35,6000,Washington
+5,2023-01-21,465,687,purchase,35,6000,Washington
+5,2023-02-15,908,1609,withdrawal,35,6000,Washington
+5,2023-01-21,149,1758,deposit,35,6000,Washington
+5,2023-01-01,537,1221,purchase,35,6000,Washington
+5,2023-01-19,638,1859,deposit,35,6000,Washington
+5,2023-01-19,58,1801,purchase,35,6000,Washington
+5,2023-02-19,294,1507,withdrawal,35,6000,Washington
+5,2023-01-01,515,992,purchase,35,6000,Washington
+5,2023-02-23,560,432,withdrawal,35,6000,Washington
+5,2023-02-14,269,163,withdrawal,35,6000,Washington
+5,2023-02-10,438,1136,purchase,35,6000,Washington
+5,2023-02-10,220,916,withdrawal,35,6000,Washington
+5,2023-02-27,576,340,purchase,35,6000,Washington
+5,2023-01-04,59,281,withdrawal,35,6000,Washington
+5,2023-01-12,771,1052,deposit,35,6000,Washington
+5,2023-01-24,132,920,purchase,35,6000,Washington
+5,2023-01-15,234,1154,deposit,35,6000,Washington
+5,2023-01-27,996,2150,deposit,35,6000,Washington
+5,2023-02-13,393,1757,withdrawal,35,6000,Washington
+5,2023-02-03,650,1107,withdrawal,35,6000,Washington
+5,2023-02-01,405,1512,deposit,35,6000,Washington
+5,2023-01-19,518,994,purchase,35,6000,Washington
+5,2023-01-20,851,143,purchase,35,6000,Washington
+5,2023-02-10,103,40,purchase,35,6000,Washington
+5,2023-02-05,262,302,deposit,35,6000,Washington
+5,2023-01-22,121,423,deposit,35,6000,Washington
+5,2023-02-28,395,28,withdrawal,35,6000,Washington
+5,2023-03-01,537,701,purchase,35,6000,Washington
+5,2023-01-12,65,636,purchase,35,6000,Washington
+5,2023-01-28,223,859,deposit,35,6000,Washington
+5,2023-01-04,462,1321,deposit,35,6000,Washington
+5,2023-01-03,31,1290,withdrawal,35,6000,Washington
+5,2023-03-01,47,1243,purchase,35,6000,Washington
+5,2023-03-02,346,1589,deposit,35,6000,Washington
+5,2023-02-02,29,1560,purchase,35,6000,Washington
+5,2023-02-19,997,563,purchase,35,6000,Washington
+5,2023-02-04,350,913,deposit,35,6000,Washington
+5,2023-01-21,567,346,purchase,35,6000,Washington
+5,2023-02-13,35,311,purchase,35,6000,Washington
+5,2023-01-07,857,1127,withdrawal,35,6000,Washington
+5,2023-01-20,480,1607,deposit,35,6000,Washington
+5,2023-02-27,184,1791,deposit,35,6000,Washington
+5,2023-02-11,259,1532,purchase,35,6000,Washington
+5,2023-02-16,268,1264,withdrawal,35,6000,Washington
+5,2023-01-30,406,1670,deposit,35,6000,Washington
+5,2023-01-21,812,858,withdrawal,35,6000,Washington
+5,2023-01-14,70,928,deposit,35,6000,Washington
+5,2023-03-02,589,339,purchase,35,6000,Washington
+5,2023-02-15,876,593,purchase,35,6000,Washington
+5,2023-02-19,720,1850,purchase,35,6000,Washington
+5,2023-01-10,989,861,purchase,35,6000,Washington
+5,2023-01-19,596,265,purchase,35,6000,Washington
+5,2023-01-18,786,1051,deposit,35,6000,Washington
+5,2023-02-08,158,893,withdrawal,35,6000,Washington
+5,2023-02-12,832,61,purchase,35,6000,Washington
+5,2023-01-26,872,1749,withdrawal,35,6000,Washington
+5,2023-01-12,98,1651,purchase,35,6000,Washington
+5,2023-01-17,898,2549,deposit,35,6000,Washington
+5,2023-01-17,216,2333,withdrawal,35,6000,Washington
+5,2023-01-01,203,2130,withdrawal,35,6000,Washington
+5,2023-01-16,567,2697,deposit,35,6000,Washington
+5,2023-03-02,923,1774,purchase,35,6000,Washington
+5,2023-01-04,835,939,purchase,35,6000,Washington
+5,2023-02-23,50,989,deposit,35,6000,Washington
+5,2023-01-01,808,181,withdrawal,35,6000,Washington
+5,2023-02-22,220,1452,withdrawal,35,6000,Washington
+5,2023-01-17,80,1372,withdrawal,35,6000,Washington
+5,2023-01-30,384,988,purchase,35,6000,Washington
+5,2023-02-09,754,234,withdrawal,35,6000,Washington
+5,2023-02-13,437,710,purchase,35,6000,Washington
+5,2023-01-14,655,55,withdrawal,35,6000,Washington
+5,2023-02-20,533,588,deposit,35,6000,Washington
+5,2023-02-03,707,1593,purchase,35,6000,Washington
+5,2023-01-26,934,659,purchase,35,6000,Washington
+5,2023-02-19,49,708,deposit,35,6000,Washington
+5,2023-02-18,524,184,withdrawal,35,6000,Washington
+5,2023-01-31,230,1523,purchase,35,6000,Washington
+5,2023-02-26,443,1080,purchase,35,6000,Washington
+5,2023-01-01,192,888,withdrawal,35,6000,Washington
+5,2023-01-08,49,937,deposit,35,6000,Washington
+5,2023-02-05,265,672,purchase,35,6000,Washington
+5,2023-01-27,576,96,purchase,35,6000,Washington
+5,2023-01-14,996,1378,withdrawal,35,6000,Washington
+5,2023-01-06,59,1437,deposit,35,6000,Washington
+5,2023-01-27,889,548,purchase,35,6000,Washington
+5,2023-01-02,818,1182,withdrawal,35,6000,Washington
+5,2023-01-23,91,1273,deposit,35,6000,Washington
+5,2023-01-14,828,445,purchase,35,6000,Washington
+5,2023-02-15,555,1860,purchase,35,6000,Washington
+5,2023-01-19,934,2794,deposit,35,6000,Washington
+5,2023-02-07,726,2068,withdrawal,35,6000,Washington
+5,2023-01-11,853,2921,deposit,35,6000,Washington
+5,2023-01-04,897,2024,purchase,35,6000,Washington
+5,2023-02-21,646,1378,withdrawal,35,6000,Washington
+5,2023-01-14,379,1757,deposit,35,6000,Washington
+5,2023-01-11,967,2724,deposit,35,6000,Washington
+5,2023-02-14,235,2959,deposit,35,6000,Washington
+5,2023-01-09,310,2649,withdrawal,35,6000,Washington
+5,2023-02-21,527,3176,deposit,35,6000,Washington
+5,2023-02-19,115,3061,purchase,35,6000,Washington
+5,2023-01-22,525,3586,deposit,35,6000,Washington
+5,2023-02-14,824,2762,purchase,35,6000,Washington
+5,2023-02-02,916,3678,deposit,35,6000,Washington
+5,2023-01-29,163,3841,deposit,35,6000,Washington
+5,2023-01-28,873,2968,withdrawal,35,6000,Washington
+5,2023-01-02,231,2737,withdrawal,35,6000,Washington
+5,2023-01-16,948,1789,purchase,35,6000,Washington
+5,2023-01-13,775,1014,withdrawal,35,6000,Washington
+5,2023-02-03,794,220,purchase,35,6000,Washington
+5,2023-02-18,404,689,purchase,35,6000,Washington
+5,2023-01-08,468,221,purchase,35,6000,Washington
+5,2023-02-18,146,367,deposit,35,6000,Washington
+5,2023-02-25,713,1629,purchase,35,6000,Washington
+5,2023-02-17,733,2362,deposit,35,6000,Washington
+5,2023-01-08,397,1965,purchase,35,6000,Washington
+5,2023-01-23,56,1909,withdrawal,35,6000,Washington
+5,2023-02-10,335,1574,withdrawal,35,6000,Washington
+5,2023-01-13,294,1280,purchase,35,6000,Washington
+5,2023-01-03,944,2224,deposit,35,6000,Washington
+5,2023-01-07,632,1592,withdrawal,35,6000,Washington
+5,2023-01-08,695,897,withdrawal,35,6000,Washington
+5,2023-01-28,727,1624,deposit,35,6000,Washington
+5,2023-01-16,353,1271,purchase,35,6000,Washington
+5,2023-02-28,441,1712,deposit,35,6000,Washington
+5,2023-02-28,133,1845,deposit,35,6000,Washington
+5,2023-01-20,58,1787,purchase,35,6000,Washington
+5,2023-01-23,425,2212,deposit,35,6000,Washington
+5,2023-02-15,307,1905,withdrawal,35,6000,Washington
+6,2023-02-05,517,2988,deposit,28,3500,Ohio
+6,2023-02-15,816,2172,withdrawal,28,3500,Ohio
+6,2023-02-20,253,1919,purchase,28,3500,Ohio
+6,2023-01-17,498,1421,withdrawal,28,3500,Ohio
+6,2023-02-18,47,1468,deposit,28,3500,Ohio
+6,2023-01-10,434,1034,withdrawal,28,3500,Ohio
+6,2023-01-03,239,1273,deposit,28,3500,Ohio
+6,2023-02-27,971,302,purchase,28,3500,Ohio
+6,2023-02-11,763,1040,purchase,28,3500,Ohio
+6,2023-01-12,194,846,purchase,28,3500,Ohio
+6,2023-02-11,984,1529,purchase,28,3500,Ohio
+6,2023-01-08,209,1320,purchase,28,3500,Ohio
+6,2023-02-19,398,922,purchase,28,3500,Ohio
+6,2023-01-14,999,1721,withdrawal,28,3500,Ohio
+6,2023-02-10,824,897,purchase,28,3500,Ohio
+6,2023-02-06,581,316,withdrawal,28,3500,Ohio
+6,2023-01-23,394,1400,withdrawal,28,3500,Ohio
+6,2023-02-21,893,507,purchase,28,3500,Ohio
+6,2023-01-26,877,1221,purchase,28,3500,Ohio
+6,2023-01-02,746,475,purchase,28,3500,Ohio
+6,2023-01-07,242,233,withdrawal,28,3500,Ohio
+6,2023-01-18,88,145,purchase,28,3500,Ohio
+6,2023-02-28,747,904,withdrawal,28,3500,Ohio
+6,2023-01-24,401,1305,deposit,28,3500,Ohio
+6,2023-02-15,707,598,withdrawal,28,3500,Ohio
+6,2023-02-05,900,1313,purchase,28,3500,Ohio
+6,2023-02-07,975,2288,deposit,28,3500,Ohio
+6,2023-02-25,531,2819,deposit,28,3500,Ohio
+6,2023-01-09,917,3736,deposit,28,3500,Ohio
+6,2023-01-13,358,3378,withdrawal,28,3500,Ohio
+6,2023-01-16,983,2395,purchase,28,3500,Ohio
+6,2023-01-16,509,1886,withdrawal,28,3500,Ohio
+6,2023-02-22,775,2661,deposit,28,3500,Ohio
+6,2023-02-25,804,1857,withdrawal,28,3500,Ohio
+6,2023-02-23,813,1044,purchase,28,3500,Ohio
+6,2023-03-02,808,236,withdrawal,28,3500,Ohio
+6,2023-02-15,894,1947,withdrawal,28,3500,Ohio
+6,2023-01-01,389,2336,deposit,28,3500,Ohio
+6,2023-01-19,511,1825,purchase,28,3500,Ohio
+6,2023-02-24,119,1944,deposit,28,3500,Ohio
+6,2023-02-01,349,2293,deposit,28,3500,Ohio
+6,2023-01-05,840,1453,withdrawal,28,3500,Ohio
+6,2023-01-31,196,1257,purchase,28,3500,Ohio
+6,2023-02-07,572,685,purchase,28,3500,Ohio
+6,2023-01-02,853,715,purchase,28,3500,Ohio
+6,2023-02-25,548,167,purchase,28,3500,Ohio
+6,2023-01-18,627,794,deposit,28,3500,Ohio
+6,2023-01-16,276,1070,deposit,28,3500,Ohio
+6,2023-01-25,608,1678,deposit,28,3500,Ohio
+6,2023-02-21,741,937,purchase,28,3500,Ohio
+6,2023-01-25,307,1244,deposit,28,3500,Ohio
+6,2023-01-18,141,1103,purchase,28,3500,Ohio
+6,2023-01-06,187,916,withdrawal,28,3500,Ohio
+6,2023-01-16,42,874,purchase,28,3500,Ohio
+6,2023-01-19,744,130,withdrawal,28,3500,Ohio
+6,2023-01-13,800,1222,withdrawal,28,3500,Ohio
+6,2023-01-15,137,1085,withdrawal,28,3500,Ohio
+6,2023-01-27,848,237,withdrawal,28,3500,Ohio
+6,2023-02-19,968,1317,purchase,28,3500,Ohio
+6,2023-02-25,920,2237,deposit,28,3500,Ohio
+6,2023-01-13,456,1781,purchase,28,3500,Ohio
+6,2023-01-23,254,1527,withdrawal,28,3500,Ohio
+6,2023-03-01,67,1460,purchase,28,3500,Ohio
+6,2023-02-25,291,1169,purchase,28,3500,Ohio
+6,2023-02-28,870,299,purchase,28,3500,Ohio
+6,2023-02-15,28,271,withdrawal,28,3500,Ohio
+6,2023-02-06,696,967,deposit,28,3500,Ohio
+6,2023-02-21,776,191,withdrawal,28,3500,Ohio
+6,2023-01-21,616,1138,withdrawal,28,3500,Ohio
+6,2023-02-13,567,1705,deposit,28,3500,Ohio
+6,2023-02-26,580,1125,purchase,28,3500,Ohio
+6,2023-02-13,62,1063,withdrawal,28,3500,Ohio
+6,2023-01-04,948,115,withdrawal,28,3500,Ohio
+6,2023-02-05,839,1704,purchase,28,3500,Ohio
+6,2023-01-30,751,953,withdrawal,28,3500,Ohio
+6,2023-02-16,966,1919,deposit,28,3500,Ohio
+6,2023-02-05,77,1996,deposit,28,3500,Ohio
+6,2023-02-16,650,1346,purchase,28,3500,Ohio
+6,2023-02-11,109,1237,purchase,28,3500,Ohio
+6,2023-01-31,336,1573,deposit,28,3500,Ohio
+6,2023-01-09,896,677,withdrawal,28,3500,Ohio
+6,2023-02-16,887,557,purchase,28,3500,Ohio
+6,2023-02-25,252,305,withdrawal,28,3500,Ohio
+6,2023-02-27,819,1773,withdrawal,28,3500,Ohio
+6,2023-01-08,865,908,withdrawal,28,3500,Ohio
+6,2023-02-13,821,87,purchase,28,3500,Ohio
+6,2023-01-25,278,999,purchase,28,3500,Ohio
+6,2023-02-17,633,366,purchase,28,3500,Ohio
+6,2023-01-06,261,105,withdrawal,28,3500,Ohio
+6,2023-01-04,400,1783,withdrawal,28,3500,Ohio
+6,2023-02-18,803,2586,deposit,28,3500,Ohio
+6,2023-01-10,932,3518,deposit,28,3500,Ohio
+6,2023-01-07,635,2883,withdrawal,28,3500,Ohio
+6,2023-02-23,631,3514,deposit,28,3500,Ohio
+6,2023-02-23,157,3357,withdrawal,28,3500,Ohio
+6,2023-01-11,440,3797,deposit,28,3500,Ohio
+6,2023-02-22,633,3164,withdrawal,28,3500,Ohio
+6,2023-01-24,735,2429,purchase,28,3500,Ohio
+6,2023-01-31,509,2938,deposit,28,3500,Ohio
+6,2023-03-02,477,2461,withdrawal,28,3500,Ohio
+6,2023-02-01,639,1822,purchase,28,3500,Ohio
+6,2023-01-19,719,1103,withdrawal,28,3500,Ohio
+6,2023-01-12,231,872,withdrawal,28,3500,Ohio
+6,2023-02-24,868,1740,deposit,28,3500,Ohio
+6,2023-01-29,970,770,withdrawal,28,3500,Ohio
+6,2023-01-27,885,1559,purchase,28,3500,Ohio
+6,2023-01-21,587,972,purchase,28,3500,Ohio
+6,2023-02-17,493,479,withdrawal,28,3500,Ohio
+6,2023-01-04,365,114,purchase,28,3500,Ohio
+6,2023-02-11,277,391,deposit,28,3500,Ohio
+6,2023-02-04,209,182,purchase,28,3500,Ohio
+6,2023-02-02,509,691,deposit,28,3500,Ohio
+6,2023-01-19,304,995,deposit,28,3500,Ohio
+6,2023-02-17,860,1855,deposit,28,3500,Ohio
+6,2023-01-27,298,2153,deposit,28,3500,Ohio
+6,2023-01-25,462,2615,deposit,28,3500,Ohio
+6,2023-01-24,621,1994,withdrawal,28,3500,Ohio
+6,2023-01-02,96,2090,deposit,28,3500,Ohio
+6,2023-01-13,631,2721,deposit,28,3500,Ohio
+6,2023-01-24,566,2155,purchase,28,3500,Ohio
+6,2023-02-11,129,2284,deposit,28,3500,Ohio
+6,2023-01-17,997,3281,deposit,28,3500,Ohio
+6,2023-02-18,689,2592,withdrawal,28,3500,Ohio
+6,2023-01-02,227,2365,purchase,28,3500,Ohio
+6,2023-02-19,409,2774,deposit,28,3500,Ohio
+6,2023-02-28,441,2333,withdrawal,28,3500,Ohio
+6,2023-01-03,546,2879,deposit,28,3500,Ohio
+6,2023-01-04,302,3181,deposit,28,3500,Ohio
+6,2023-01-07,280,2901,withdrawal,28,3500,Ohio
+6,2023-01-29,547,3448,deposit,28,3500,Ohio
+6,2023-02-10,574,2874,withdrawal,28,3500,Ohio
+6,2023-02-14,133,2741,withdrawal,28,3500,Ohio
+6,2023-01-30,894,3635,deposit,28,3500,Ohio
+6,2023-02-27,61,3574,withdrawal,28,3500,Ohio
+6,2023-01-20,596,2978,withdrawal,28,3500,Ohio
+6,2023-01-25,112,2866,withdrawal,28,3500,Ohio
+6,2023-02-26,687,2179,purchase,28,3500,Ohio
+6,2023-03-02,872,1307,withdrawal,28,3500,Ohio
+6,2023-02-25,438,1745,deposit,28,3500,Ohio
+6,2023-02-16,620,1125,purchase,28,3500,Ohio
+6,2023-01-09,554,1679,deposit,28,3500,Ohio
+6,2023-01-08,941,738,withdrawal,28,3500,Ohio
+6,2023-02-21,860,688,purchase,28,3500,Ohio
+6,2023-01-22,891,1628,withdrawal,28,3500,Ohio
+6,2023-01-20,731,897,withdrawal,28,3500,Ohio
+6,2023-01-30,956,1873,withdrawal,28,3500,Ohio
+6,2023-02-13,325,1548,withdrawal,28,3500,Ohio
+6,2023-02-24,976,2524,deposit,28,3500,Ohio
+6,2023-01-13,244,2280,purchase,28,3500,Ohio
+6,2023-01-30,938,3218,deposit,28,3500,Ohio
+6,2023-02-22,504,2714,withdrawal,28,3500,Ohio
+6,2023-02-14,526,2188,withdrawal,28,3500,Ohio
+6,2023-02-06,645,2833,deposit,28,3500,Ohio
+6,2023-01-22,798,2035,withdrawal,28,3500,Ohio
+6,2023-01-18,200,1835,withdrawal,28,3500,Ohio
+6,2023-01-23,909,2744,deposit,28,3500,Ohio
+6,2023-01-11,452,2292,withdrawal,28,3500,Ohio
+6,2023-02-02,839,1453,withdrawal,28,3500,Ohio
+6,2023-01-31,261,1714,deposit,28,3500,Ohio
+6,2023-01-28,116,1598,withdrawal,28,3500,Ohio
+6,2023-01-17,245,1843,deposit,28,3500,Ohio
+6,2023-01-02,125,1718,withdrawal,28,3500,Ohio
+6,2023-01-22,852,866,withdrawal,28,3500,Ohio
+6,2023-01-19,45,821,withdrawal,28,3500,Ohio
+6,2023-02-24,66,755,withdrawal,28,3500,Ohio
+6,2023-02-15,678,1433,deposit,28,3500,Ohio
+6,2023-01-17,44,1389,purchase,28,3500,Ohio
